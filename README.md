@@ -4,7 +4,7 @@ I'm [**Sync'**](https://github.com/SyncToYou), a French 17 years old **Programme
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li>I’m specialized in <strong>Data science</strong> and <strong>Cybersecurity</strong>. 🔥🔥🔥</li>
+  <li>I’m specialized in <strong>Data Science</strong> and <strong>CyberSecurity</strong>. 🔥🔥🔥</li>
   <li>Learning about <strong>Distributed Architecture</strong> and <strong>Neuroscience</strong>.</li>
   <li>Interested by the <strong>Philosophy of Artifical Intelligence</strong>.</li>
   <li>Ping me so <strong>I can surprise you</strong>. 👀</li>
