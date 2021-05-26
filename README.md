@@ -1,14 +1,8 @@
-<div align="left">
-  <a href="https://synctoyou.fr/">
-    <img width="100%" src="https://raw.githubusercontent.com/SyncToYou/SyncToYou/master/logo.gif?sanitize=true">
-  </a>
-</div>
-
 # 👋 Hey Everyone!
 
 I am [**Sync'**](https://github.com/SyncToYou), a Upper Class French 17 years old **Programmer**. 💖 
 
-<h2>A Few Quick Facts</h2>
+<h2>❤ A Few Quick Facts</h2>
 <table>
   <tr>
     <ul> 
@@ -21,7 +15,7 @@ I am [**Sync'**](https://github.com/SyncToYou), a Upper Class French 17 years ol
   </tr>
 </table>
 
-<h2>Some Languages I Use</h2>
+<h2>💚 Some Languages I Use</h2>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -32,7 +26,7 @@ I am [**Sync'**](https://github.com/SyncToYou), a Upper Class French 17 years ol
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 </p>
 
-<h2>I'm always open to interesting conversations and collaboration.</h2>
+<h2>💛 I'm always open to interesting conversations and collaboration.</h2>
 <p>
   <a href="mailto:synctoyou.001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.bio/p/synctoyou"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
