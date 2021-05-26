@@ -10,7 +10,7 @@ I am [**Sync'**](https://github.com/SyncToYou), a Wealthy French 17 years old **
       <li>Learning about <strong>Distributed Architecture</strong> and <strong>Algorithmic Bias</strong>.</li>
       <li>Interested by the <strong>AI Ethics and Neuroscience</strong>.</li>
       <li>Ping me so <strong>I can surprise you</strong>. 👀</li>
-      <li>Fun Fact: Although I have an upper class lifestyle, I like to do things on my own.</li>
+      <li>Fun Fact: Although I have an upper class lifestyle, I always love to do things on my own BECAUSE I have liberty!!</li>
     </ul>
   </tr>
 </table>
