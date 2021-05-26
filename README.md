@@ -11,7 +11,7 @@ I'm [**Sync'**](https://github.com/SyncToYou), a French 17 years old **Programme
   <li>Fun Fact: Although I have an upper class lifestyle, I like to do things on my own.</li>
 </ul>
 
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 Some Languages I Use</h2>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
