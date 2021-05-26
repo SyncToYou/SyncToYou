@@ -1,6 +1,6 @@
 # 👋 Hey Everyone!
 
-I am [**Sync'**](https://github.com/SyncToYou), a Wealthy French 17 years old **Programmer**. 💖 
+I am [**Sync'**](https://github.com/SyncToYou), a Wealthy French 17 years old **Developer** and **Programmer**. 💖 
 
 <h2>❤ A Few Quick Facts</h2>
 <table>
