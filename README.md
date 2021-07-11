@@ -8,7 +8,7 @@ I am [**Sync'**](https://github.com/SyncToYou), a Wealthy French 18 years old **
     <ul> 
       <li>I’m specialized in <strong>Data Science</strong> and <strong>Cybersecurity</strong>. 🔥🔥🔥</li>
       <li>Learning about <strong>Distributed Architecture</strong> and <strong>Algorithmic Bias</strong>.</li>
-      <li>Interested by the <strong>AI Ethics and Neuroscience</strong>.</li>
+      <li>Interested by the <strong>Biohacking and Neuroscience</strong>.</li>
       <li>Ping me so <strong>I can surprise you</strong>. 👀</li>
       <li>Fun Fact: Although I have an upper class lifestyle, I always love to do things on my own BECAUSE yes, I've my freedom!! 😜</li>
     </ul>
