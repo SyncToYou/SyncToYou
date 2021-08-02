@@ -1,9 +1,9 @@
 # 👋 Hey Everyone! I'm Sync'
-<h2>Whoami</h2>
+<h2>▸ Whoami</h2>
 <p><i>A French 18yo computer programmer who has previously worked in several projects in <strong>Data Science</strong> and <strong>Cybersecurity</strong> team, but who also has knowledge of <strong>Distributed Architecture</strong>, <strong>Cloud Computing</strong> and <strong>Algorithmics</strong>.</i></p>
 <p><i>I am passionate about <strong>Biohacking Technologies</strong> and <strong>Neurosciences</strong> in my spart time.</i></p>
 
-<h2>Skills</h2>
+<h2>▸ Skills</h2>
 <h5>Operating Systems</h5>
 <p>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -34,7 +34,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
-<h2>I'm always open to interesting conversations and collaboration.</h2>
+<h2>▸ I'm always open to interesting conversations and collaboration.</h2>
 <p>
   <a href="mailto:synctoyou.001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.bio/p/synctoyou"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
