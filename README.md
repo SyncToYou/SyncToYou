@@ -1,6 +1,6 @@
 # 👋 Hey Everyone! I'm Sync'
 <h2>Whoami</h2>
-<p><i>A French 18yo computer programmer who has previously worked in several projects in <strong>Data Science</strong> team and <strong>Cybersecurity</strong> team, but who also has possessing knowledge of <strong>Distributed Architecture</strong>, <strong>Cloud Computing</strong> and <strong>Algorithmics</strong>.</i></p>
+<p><i>A French 18yo computer programmer who has previously worked in several projects in <strong>Data Science</strong> and <strong>Cybersecurity</strong> team, but who also has knowledge of <strong>Distributed Architecture</strong>, <strong>Cloud Computing</strong> and <strong>Algorithmics</strong>.</i></p>
 <p><i>I am passionate about <strong>Biohacking Technologies</strong> and <strong>Neurosciences</strong> in my spart time.</i></p>
 
 <h2>Skills</h2>
